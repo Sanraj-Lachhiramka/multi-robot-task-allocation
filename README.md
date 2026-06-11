@@ -31,9 +31,9 @@ This project proposes and evaluates a **Voronoi-Consensus** allocation method th
 
 | Method | Travel Distance (m) | Makespan (m) | Load Std Dev (m) |
 |---|---|---|---|
-| Greedy Nearest-Task | 469 ± 72 | 132 ± 26 | 27 ± 9 |
-| Auction-Based | 727 ± 117 | 291 ± 82 | 96 ± 37 |
-| **Voronoi-Consensus** | **427 ± 79** | 151 ± 37 | 45 ± 17 |
+| Greedy Nearest-Task | 469 ± 71.8 | 131.9 ± 26.3 | 27.1 ± 9.0 |
+| Auction-Based | 727 ± 117.3 | 290 ± 82.1 | 96.3 ± 36.7 |
+| **Voronoi-Consensus** | **427.0 ± 78.9** | 151.3 ± 36.9 | 44.7 ± 16.5 |
 
 Voronoi-Consensus achieves the **lowest total travel distance** and **best robustness to communication loss**.
 
@@ -166,7 +166,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## Author
 
-**[Your Full Name]**
-B.Tech in Electronics and Communication Engineering
-[Your University]
-[your.email@example.com] · [LinkedIn] · [GitHub]
+**Sanraj Lachhiramka** \
+Robotics and AI Software Engineer @ Sigtuple Technologies, B.Tech in Electronics and Communication Engineering @ PES University  
+
+sanrajlachhiramka@gmail.com · [[LinkedIn](https://www.linkedin.com/in/sanraj-lachhiramka-2210a9248/)] · [[GitHub](https://github.com/Sanraj-Lachhiramka)]
